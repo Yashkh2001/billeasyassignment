@@ -1,0 +1,12 @@
+body {
+  padding: 50px 50px 50px 25px;
+}
+img {
+  transform: scaleX(0.9);
+}
+
+img:hover {
+  transform: scaleX(1.1);
+  transform: scaleY(1.1);
+  transition: 0.3s;
+}
